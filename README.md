@@ -1,2 +1,2 @@
 # digital-n8n
-Ai infra made in vector Database , to train the model making the digital workflows 
+Ai infra made with n8n , to train the model making the digital workflows 
